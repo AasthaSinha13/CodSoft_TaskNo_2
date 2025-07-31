@@ -1,4 +1,4 @@
-  🍽 Restaurant Landing Page - Aastha Sinha
+#  🍽 Restaurant Landing Page - Aastha Sinha
 
 This repository contains a "responsive landing page" for a restaurant. It’s designed to make a strong first impression, highlight key offerings, and encourage user engagement through clean visuals and intuitive layout.
 
